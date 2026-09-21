@@ -1,9 +1,80 @@
-﻿# Step_semester_3
+# Step_semester_3
 
-Semester 3 — Version Control & Daily Workflow Standard
+Semester 3 - Version Control & Daily Workflow Standard
 
 **Student Name:** Vineeth Sai  
 **Registration Number:** RA2511026011098  
+
+---
+
+## Repository Tree Structure
+
+```
+src/main/java/
+├── session_1/
+│   ├── class_problems/        (5 problems)
+│   └── assigment_problems/    (5 problems)
+├── session_2/
+│   ├── class_problems/        (5 problems)
+│   └── assigment_problems/    (5 problems)
+├── session_3/
+│   ├── class_problems/        (5 problems)
+│   └── assigment_problems/    (5 problems)
+├── session_4/
+│   ├── class_problems/        (5 problems)
+│   └── assigment_problems/    (5 problems)
+└── session_5/
+    ├── class_problems/        (5 problems)
+    └── assigment_problems/    (5 problems)
+```
+
+---
+
+## Date: 19-09-2026
+
+**Today's Work:**
+- Completed Week 5 / Session 5 Class Problems on Arrays, 2D Arrays, and OOP (HackathonScoreCurveBooster, DuplicateTeamNameFinder, Top3PodiumFinder, HackathonSeatingGridOptimizer, PlacementDriveShortlistingRankingEngine).
+- Completed Week 5 / Session 5 Assignment Problems on Arrays, 2D Arrays, and OOP (FantasyTeamScoreMultiplier, DuplicatePlayerPickChecker, TopPerformerTracker, MatchDayGridAnalyzer, FantasyLeagueAutoDraftRankingEngine).
+- Verified compilation, test outputs, in-place modifications, and object ranking with Comparable for all 10 Session 5 programs.
+- Pushed branch feature/session_5 to remote.
+
+**Next Session Plan:**
+- Continue with subsequent course modules and placement problems.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 19-09-2026
+
+**Today's Work:**
+- Completed Week 4 / Session 4 Class Problems on OOP, Classes, and Objects (PlacementRecord, MessWallet, Course, IdCard, Student).
+- Completed Week 4 / Session 4 Assignment Problems on OOP, Classes, and Objects (BookInventory, PayrollAccount, Employee, HallTicket, CompanyEmployee).
+- Verified compilation, test outputs, constructor chaining via this(...), and reference equality for all 10 Session 4 programs.
+- Pushed branch feature/session_4 to remote.
+
+**Next Session Plan:**
+- Work on Week 5 / Session 5 problems.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 19-09-2026
+
+**Today's Work:**
+- Completed Week 3 / Session 3 Class Problems on Arrays and Logic Building (TwoSum, BestTimeToBuyAndSellStock, ContainsDuplicate, MergeTwoSortedArrays, RotateArray).
+- Completed Week 3 / Session 3 Assignment Problems on Arrays and Logic Building (ProductOfArrayExceptSelf, MaximumSubarray, ThreeSum, SubarraySumEqualsK, FindMinimumInRotatedSortedArray).
+- Verified compilation, test outputs, and algorithm time/space complexities for all 10 Session 3 programs.
+- Pushed branch feature/session_3 to remote.
+
+**Next Session Plan:**
+- Work on Week 4 / Session 4 problems.
+
+**Issues Faced:**
+- None
 
 ---
 
