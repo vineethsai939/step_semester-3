@@ -7,6 +7,29 @@ Semester 3 - Version Control & Daily Workflow Standard
 
 ---
 
+## Repository Tree Structure
+
+```
+src/main/java/
+├── session_1/
+│   ├── class_problems/        (5 problems)
+│   └── assigment_problems/    (5 problems)
+├── session_2/
+│   ├── class_problems/        (5 problems)
+│   └── assigment_problems/    (5 problems)
+├── session_3/
+│   ├── class_problems/        (5 problems)
+│   └── assigment_problems/    (5 problems)
+├── session_4/
+│   ├── class_problems/        (5 problems)
+│   └── assigment_problems/    (5 problems)
+└── session_5/
+    ├── class_problems/        (5 problems)
+    └── assigment_problems/    (5 problems)
+```
+
+---
+
 ## Date: 19-09-2026
 
 **Today's Work:**
